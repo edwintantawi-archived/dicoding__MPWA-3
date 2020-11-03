@@ -1,6 +1,5 @@
 import "./components/app-navbar.js";
 import "./renderPages.js"
-// X-Auth-Key : b0825830f1724f13987c4b6ffb0ab92f
 
 // go to top button
 const gtButton = document.querySelector(".gotop");

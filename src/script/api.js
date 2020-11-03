@@ -259,15 +259,8 @@ const getStandings =() => {
       
 
 
-  }).then(function(standing){
-
-      })
+  })
     
-}
-
-
-const bookmarked = id => {
-  console.log(id)
 }
 
 
