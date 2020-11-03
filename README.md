@@ -10,3 +10,5 @@ submission 2 Dicoding pwa
 6. WorkBox
 
 ## Live Web
+
+https://football-league-pwa.web.app/
