@@ -7,6 +7,6 @@ submission 2 Dicoding pwa
 3. Javacript
 4. Materialize
 5. SASS
+6. WorkBox
 
 ## Live Web
-https://footballleague-pwa.netlify.app/
